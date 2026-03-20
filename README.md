@@ -3,7 +3,7 @@
 A full-stack eCommerce web application built using the MERN stack.
 
 🚀 Live Demo
-👉 https://your-project-name.vercel.app
+👉 https://closette-store.vercel.app/
 
 ✨ Features
 - User authentication (Login/Signup)
